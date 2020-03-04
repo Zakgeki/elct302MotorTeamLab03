@@ -1,0 +1,171 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/bin/ld.exe: cannot open output file a.out: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/bin/ld.exe: cannot open output file a.out: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/bin/ld.exe: cannot open output file a.out: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Permission denied
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/bin/ld.exe: cannot open output file a.out: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/bin/ld.exe: cannot open output file a.out: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_8adc7/fast 
+/usr/bin/make -f CMakeFiles/cmTC_8adc7.dir/build.make CMakeFiles/cmTC_8adc7.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8adc7.dir/CMakeCCompilerABI.c.obj
+"/cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-gcc.exe"    -o CMakeFiles/cmTC_8adc7.dir/CMakeCCompilerABI.c.obj   -c /usr/share/cmake-3.14.5/Modules/CMakeCCompilerABI.c
+arm-none-eabi-gcc.exe: error: /usr/share/cmake-3.14.5/Modules/CMakeCCompilerABI.c: No such file or directory
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_8adc7.dir/build.make:66: CMakeFiles/cmTC_8adc7.dir/CMakeCCompilerABI.c.obj] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_8adc7/fast] Error 2
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_03d15/fast 
+/usr/bin/make -f CMakeFiles/cmTC_03d15.dir/build.make CMakeFiles/cmTC_03d15.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_03d15.dir/CMakeCXXCompilerABI.cpp.obj
+"/cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-g++.exe"    -v -o CMakeFiles/cmTC_03d15.dir/CMakeCXXCompilerABI.cpp.obj -c /usr/share/cmake-3.14.5/Modules/CMakeCXXCompilerABI.cpp
+arm-none-eabi-g++.exe: error: /usr/share/cmake-3.14.5/Modules/CMakeCXXCompilerABI.cpp: No such file or directory
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin\arm-none-eabi-g++.exe
+Target: arm-none-eabi
+Configured with: /tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/src/gcc/configure --build=x86_64-linux-gnu --host=i686-w64-mingw32 --target=arm-none-eabi --prefix=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw --libexecdir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/lib --infodir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/info --mandir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/man --htmldir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/html --pdfdir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/pdf --enable-languages=c,c++ --enable-mingw-wildcard --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-headers=yes --with-newlib --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/arm-none-eabi --with-libiconv-prefix=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-gmp=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-mpfr=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-mpc=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-isl=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-libelf=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-pkgversion='GNU Tools for ARM Embedded Processors 6-2017-q2-update' --with-multilib-list=rmprofile
+Thread model: single
+gcc version 6.3.1 20170620 (release) [ARM/embedded-6-branch revision 249437] (GNU Tools for ARM Embedded Processors 6-2017-q2-update) 
+Linking CXX executable cmTC_03d15
+/usr/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_03d15.dir/link.txt --verbose=1
+"/cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-g++.exe"      -v CMakeFiles/cmTC_03d15.dir/CMakeCXXCompilerABI.cpp.obj  -o cmTC_03d15 
+arm-none-eabi-g++.exe: error: CMakeFiles/cmTC_03d15.dir/CMakeCXXCompilerABI.cpp.obj: No such file or directory
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin\arm-none-eabi-g++.exe
+COLLECT_LTO_WRAPPER=c:/program\ files\ (x86)/gnu\ tools\ arm\ embedded/6\ 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/lto-wrapper.exe
+Target: arm-none-eabi
+Configured with: /tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/src/gcc/configure --build=x86_64-linux-gnu --host=i686-w64-mingw32 --target=arm-none-eabi --prefix=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw --libexecdir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/lib --infodir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/info --mandir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/man --htmldir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/html --pdfdir=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/share/doc/gcc-arm-none-eabi/pdf --enable-languages=c,c++ --enable-mingw-wildcard --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-headers=yes --with-newlib --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/install-mingw/arm-none-eabi --with-libiconv-prefix=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-gmp=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-mpfr=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-mpc=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-isl=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-libelf=/tmp/jenkins-GCC-6-buildandreg-223_20170621_1498033910/build-mingw/host-libs/usr --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-pkgversion='GNU Tools for ARM Embedded Processors 6-2017-q2-update' --with-multilib-list=rmprofile
+Thread model: single
+gcc version 6.3.1 20170620 (release) [ARM/embedded-6-branch revision 249437] (GNU Tools for ARM Embedded Processors 6-2017-q2-update) 
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_03d15.dir/build.make:87: cmTC_03d15] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_03d15/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_d2972/fast 
+/usr/bin/make -f CMakeFiles/cmTC_d2972.dir/build.make CMakeFiles/cmTC_d2972.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d2972.dir/feature_tests.cxx.obj
+"/cygdrive/c/Program Files (x86)/GNU Tools ARM Embedded/6 2017-q2-update/bin/arm-none-eabi-g++.exe"    -std=c++1z -o CMakeFiles/cmTC_d2972.dir/feature_tests.cxx.obj -c /cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/feature_tests.cxx
+arm-none-eabi-g++.exe: error: /cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/feature_tests.cxx: No such file or directory
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_d2972.dir/build.make:66: CMakeFiles/cmTC_d2972.dir/feature_tests.cxx.obj] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_d2972/fast] Error 2
+
+
+
