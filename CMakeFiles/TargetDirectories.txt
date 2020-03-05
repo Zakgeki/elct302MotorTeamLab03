@@ -1,4 +1,0 @@
-/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/MotorTeamLab03.dir
-/cygdrive/c/Users/zachw/Documents/GitHub/elct302MotorTeamLab03/CMakeFiles/mbed-cli-build.dir
